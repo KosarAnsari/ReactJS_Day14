@@ -1,0 +1,21 @@
+.heading {
+  color: green;
+}
+.img-style {
+  width: 150px;
+}
+.user-card {
+  width: 150px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 3px 0;
+  margin: 10px;
+}
+
+.text-wrap {
+  padding: 10px;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
